@@ -1,0 +1,172 @@
+.links{
+  color: rgb(213 234 211);
+  font-size: 22px;
+  text-decoration: none;
+  
+  border-radius: 10px;
+  padding: 5px;
+}
+.links:hover{
+  color: black;
+  text-decoration: underline;
+  background-color: white;
+}
+.links:active{
+  color: white;
+  background-color: blue;
+}
+
+.navbar{
+  color: aqua;
+  background-color: rgb(74 79 83);
+  text-decoration: none;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  min-width: 250px;
+  min-height: 1000px;
+}
+.navbar1{
+  text-decoration: none;
+}
+.pic{
+  height: 243px;
+  width: 200px;
+  margin-left: 250px;
+  position: static;
+  
+}
+.home{
+  margin-left: 250px;
+  color: white;
+  font-size: 20px;
+  padding-left: 15px;
+  margin-top: -18px;
+}
+
+.content1{
+  margin-left: 800px;
+  margin-top:0px;
+
+}
+.name{
+    margin-left: 480px;
+    position: sticky;
+    min-width: 50px;
+    min-height: 50px;
+    color: darkslateblue;
+    margin-top: -270px;
+}
+.address{font-size:18px;}
+
+.line{
+  margin-top: 118px;
+    position: sticky;
+    margin-left: 250px;
+}
+.mail{
+  text-decoration: none;
+  color: darkslateblue;
+}
+.mail:hover{
+  text-decoration: underline;
+  color: white;
+  background-color: blue;
+}
+.resume{
+  margin-left: 800px;
+}
+.home1{
+  color: #ffffff;
+  font-size: 26;
+}
+.home2{
+  border: 2px solid lightgray;
+    margin-right: 1100px;
+    background-color: #7e7657;
+    padding: 5px;
+    color: white;
+  
+}
+element.style {
+  background-color: #59596a7d;
+}
+.social-links h3{
+  height: 2px;
+  width: 2px;
+  display: inline;
+  
+  
+  
+}
+.social-links a {
+  text-decoration: none;
+  color: white;
+  padding: 10px;
+ 
+
+}
+.social-links a h3{
+  text-decoration: none;
+  color: white;
+  padding: 10px;
+}
+.pics{
+  height: 20px;
+  width: 20px;
+  color: white;
+  
+}
+
+.social-links a:hover {
+  border: 2px solid white;
+  padding: 2px;
+  border-radius: 5px;
+  background-color: cadetblue;
+}
+.education{
+  margin-left: 250px;
+  color: rgb(7, 7, 14);
+  font-size: 17px;
+  padding-left: 15px;
+  margin-top: -8px;
+}
+
+.work {
+  margin-left: 250px;
+  color: rgb(7, 7, 14);
+  font-size: 17px;
+  padding-left: 15px;
+  margin-top: -8px;
+}
+em {
+  display: block;
+  margin-bottom: 0.5rem;
+  color: #555;
+}
+.work p h3 {
+  margin-bottom: 1rem;
+  color: #000000;
+}
+.work ul {
+  list-style-type: disc;
+  padding-left: 20px;
+  li {
+    margin-bottom: 0.5rem;
+    color: #211b1b;
+  }
+}
+
+.projectlink{
+  font-size: 25px;
+  border: 2px solid black;
+  border-radius: 10px;
+  padding: 10px;
+  background-color:rgb(13, 93, 119);
+  color:white;
+
+}
+.projectlink:hover{
+  color: white;
+  background-color: rgb(13, 13, 95);
+}
